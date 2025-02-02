@@ -1,3 +1,8 @@
 stg*
 *.idea
 *.stg
+
+.DS_Store
+*.csv
+*.log
+__pycache__/
